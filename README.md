@@ -1,8 +1,8 @@
-# A* Pathing algorithm
+# 3d-Waveform
 
-An implementation of an A* pathing algorithm, written in typescript using p5. 
+Testing p5's WebGL mode.
 
-![alt text](http://i32.photobucket.com/albums/d34/robert_smith47/astar_zpsx4vrkozp.png)
+![waveform](ket.com/albums/d34/robert_smith47/waveform_zps3dokik37.jpg)
 
 ### To run:
 
