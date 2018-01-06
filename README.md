@@ -2,7 +2,7 @@
 
 Testing p5's WebGL mode.
 
-![waveform](ket.com/albums/d34/robert_smith47/waveform_zps3dokik37.jpg)
+![waveform](http://i32.photobucket.com/albums/d34/robert_smith47/waveform_zps3dokik37.jpg)
 
 ### To run:
 
